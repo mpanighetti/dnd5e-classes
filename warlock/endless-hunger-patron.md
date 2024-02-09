@@ -55,7 +55,7 @@ You have figured out how to ingest the magical essence from copied abilities as 
 - You regain hit points equal to the copied creature's Constitution score. Any hit points gained in this manner above your hit point maximum are instead gained as temporary hit points.
 - You regain one expended Pact Magic spell slot.
 
-Using your Consume trait satisfies all your food and drink requirements for the rest of the day.
+Using your Consume feature satisfies all your food and drink requirements for the rest of the day.
 
 #### Copy Traits
 
