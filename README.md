@@ -1,6 +1,6 @@
-# dnd5e-subclasses
+# dnd5e-classes
 
- A collection of homebrew 5e subclasses.
+ A collection of homebrew 5e classes and subclasses.
 
 ## Resources
  
@@ -24,7 +24,7 @@
  
  ## License
  
- _dnd5e-subclasses_ is © 2024 Mario Panighetti. Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+ _dnd5e-classes_ is © 2024 Mario Panighetti. Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
  
  Certain materials are included under fair use exemption of the U.S. Copyright Law and are restricted from further use. These materials, including references to game mechanics, are not approved or endorsed by Wizards of the Coast and do not constitute any license or agreement with Wizards of the Coast.
  
