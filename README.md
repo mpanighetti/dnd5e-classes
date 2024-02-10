@@ -1,6 +1,6 @@
 # dnd5e-classes
 
- A collection of homebrew 5e classes and subclasses.
+ A collection of 5e homebrew classes and subclasses.
 
 ## Resources
  
