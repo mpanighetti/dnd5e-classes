@@ -7,7 +7,9 @@ The Endless Hunger's motivations are inscrutably simple, at times seeming to be 
 ## Endless Hunger Features
 
 #### Patron Spells
-_1st-level Endless Hunger feature_  
+
+_1st-level Endless Hunger feature_
+
 The magic of your otherworldly patron grants you the following benefits:
 
 - **Bonus Spells.** When you gain warlock spell slots specified in the Endless Hunger Spells table, you thereafter always have the listed spells known and prepared. They count as warlock spells for you, but they don’t count against the number of spells you know or can prepare.
