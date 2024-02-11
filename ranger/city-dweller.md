@@ -1,8 +1,10 @@
 # City Dweller
 
-You have developed an innate talent to navigate the civilized world as easily as the natural world. To you, towering buildings and bustling city streets are your forests and rivers, and crowds of people can be navigated or influenced like animal herds.
+At 3rd level, a ranger gains the choice of a subclass. The following option is made available to you when making that choice: the City Dweller.
 
 ## City Dweller Features
+
+You have developed an innate talent to navigate the civilized world as easily as the natural world. To you, towering buildings and bustling city streets are your forests and rivers, and crowds of people can be navigated or influenced like animal herds.
 
 #### City Dweller Spells
 
@@ -33,7 +35,6 @@ _**Frenemies.**_ When you cast _friends_ directed at a favored enemy:
 - The spell's components are replaced with a verbal component concealed within the normal conversation you carry out with the creature targeted by the spell.
 - The spell's duration extends to up to 1 hour.
 - When the spell ends, you can use your quick wit and sharp tongue to attempt to distract the targeted creature from your magical influence. The creature must succeed on a Wisdom saving throw against your spell save DC, or they do not become hostile and are not aware that you used magic on them.
-
 
 _**Instant Message.**_ When you cast _message_ while in your favored terrain:
 
