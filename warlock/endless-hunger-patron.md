@@ -19,7 +19,7 @@ The magic of your otherworldly patron grants you the following benefits:
 ##### Endless Hunger Spells
 
 | Spell Level | Spells |
-|:-----------:|:-------|
+|:-:|:-|
 | 1st | _disguise self, feather fall, jump, longstrider_ |
 | 2nd | _alter self, barkskin, calm emotions, gust of wind_ |
 | 3rd | _blink, create food and water, fireball, stinking cloud_ |
