@@ -12,6 +12,11 @@
  
  - [City Dweller](ranger/city-dweller.md)
  
+ ##### Optional Class Features
+
+ - [Favored Enemy Options](ranger/options-favored-enemy.md)
+ - [Natural Explorer Options](ranger/options-natural-explorer.md)
+ 
  #### Warlock
  
  - [Endless Hunger Patron](warlock/endless-hunger-patron.md)
