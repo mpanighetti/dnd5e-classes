@@ -1,6 +1,6 @@
 # Natural Explorer Options
 
-## Favored Terrain: Cities
+## Cities
 
 This option adds cities as one of the selectable favored terrains in the ranger's Natural Explorer feature. This terrain includes all urban settlements of any size, from a small town to a sprawling metropolis.
 
