@@ -49,7 +49,7 @@ _3rd-level City Dweller feature_
 
 Your time spent living amongst the people of the civilized world has made you exceptionally talented at working with them — and against them. You gain proficiency in one of the following skills of your choice: Deception, Intimidation, or Persuasion. Additionally, whenever you make a Charisma check while interacting socially with a favored enemy, your proficiency bonus is doubled.
 
-You are also adept at anticipating the next moves of the city folk you know so well. You gain one city or one humanoid lineage of your choice as a favored enemy using the ranger's Favored Enemy feature and learn an associated language. Whenever you select additional favored enemies at later levels, you select an additional city or humanoid lineage and learn an additional associated language.
+You are also adept at anticipating the next moves of the city folk you know so well. You gain one city or one humanoid species of your choice as a favored enemy using the ranger's Favored Enemy feature and learn an associated language. Whenever you select additional favored enemies at later levels, you select an additional city or humanoid species and learn an additional associated language.
 
 #### Verticality
 
