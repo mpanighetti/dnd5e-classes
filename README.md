@@ -8,6 +8,8 @@ If a resource was written for another 5e homebrew document, it will include a li
 
 ### Classes
 
+Classes are listed alphabetically, with subclasses and optional class features grouped with their respective classes.
+
 #### Ranger
 
 - [City Dweller](ranger/city-dweller.md)
