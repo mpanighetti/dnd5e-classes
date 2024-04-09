@@ -21,6 +21,7 @@ Classes are listed alphabetically, with subclasses and optional class features g
 
 #### Warlock
 
+- [Crowdsourced Patron](warlock/crowdsourced-patron.md)
 - [Endless Hunger Patron](warlock/endless-hunger-patron.md)
 
 ## Credits
