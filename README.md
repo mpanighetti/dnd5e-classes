@@ -23,6 +23,7 @@ Classes are listed alphabetically, with subclasses and optional class features g
 
 - [Crowdsourced Patron](warlock/crowdsourced-patron.md)
 - [Endless Hunger Patron](warlock/endless-hunger-patron.md)
+- [Power of Friendship Patron](warlock/power-of-friendship-patron.md)
 
 ## Credits
 
