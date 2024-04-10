@@ -77,7 +77,7 @@ Any creature who listens to the entire podcast, including anyone who listened wh
 |:-:|:-|
 | Entertaining | Advantage on Charisma checks and saving throws |
 | Informative | Advantage on Intelligence checks and saving throws |
-| Soothing | Advantage on saving throws against being charmed or frightened |
+| Soothing | Resistance to the Charmed and Frightened conditions |
 
 Starting when you reach 10th level in this class, listeners also gain temporary hit points equal to a roll of your Backer dice.
 
