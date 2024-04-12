@@ -12,8 +12,8 @@ _1st-level Endless Hunger feature_
 
 The magic of your otherworldly patron grants you the following benefits:
 
-- **Bonus Spells.** When you gain warlock spell slots specified in the Endless Hunger Spells table, you thereafter always have the listed spells known and prepared. They count as warlock spells for you, but they don’t count against the number of spells you know or can prepare.
-- **Free Casting.** You can cast one of your leveled spells from the Endless Hunger Spells table without expending a spell slot. You must finish a long rest before you use this benefit again, unless you cast a spell of a different level.
+- **Bonus Spells.** When you gain warlock spell slots specified in the Endless Hunger Spells table, you thereafter always have the listed spells known and prepared. They count as warlock spells for you, but they don't count against the number of spells you know or can prepare.
+- **Free Casting.** You can cast one of your leveled spells from the Endless Hunger Spells table without expending a spell slot. You must finish a Long Rest before you use this benefit again, unless you cast a spell of a different level.
 - **Mystic Arcanum Additions.** When you choose a spell to learn using Mystic Arcanum, the following spells are added to the list of options, as long as you meet the warlock level requirements for the given spell level: _arcane sword, blade barrier, chain lightning, heroes' feast, meteor swarm, mind blank, prismatic spray, shapechange,_ and _teleport_.
 
 ##### Endless Hunger Spells
@@ -36,9 +36,9 @@ Your patron's endless pursuit of sweet desserts can be channeled as magical ener
 
 _1st-level Endless Hunger feature_
 
-Your patron gifts you the power to physically resemble another creature and take on its attributes. You can use your bonus action to touch a creature and attempt to copy its abilities. The creature makes a Constitution saving throw against your warlock spell save DC; the creature can choose to fail this saving throw, and they fail this save automatically if they are incapacitated or dead. On a failed save, your creature type, walking and climbing speeds, damage resistances, and damage vulnerabilities are replaced with those of the creature, and your skin takes on the color and appearance of the creature's skin. You are immediately aware of all your new abilities, and you are considered to be a shapechanger while in this form. On a successful save, the creature is immune to your Copy Abilities feature for 24 hours, unless they choose to fail a future saving throw.
+Your patron gifts you the power to physically resemble another creature and take on its attributes. You can use your Bonus Action to touch a creature and attempt to copy its abilities. The creature makes a Constitution Saving Throw against your warlock Spell Save DC; the creature can choose to fail this Saving Throw, and they fail this save automatically if they are incapacitated or dead. On a failed save, your creature type, walking and climbing speeds, damage resistances, and damage vulnerabilities are replaced with those of the creature, and your skin takes on the color and appearance of the creature's skin. You are immediately aware of all your new abilities, and you are considered to be a shapechanger while in this form. On a successful save, the creature is immune to your Copy Abilities feature for 24 hours, unless they choose to fail a future Saving Throw.
 
-This transformation lasts until you use your bonus action to revert to your normal form, until you attempt to copy the abilities of another creature (which replaces any previously copied abilities), or until you are incapacitated or dead.
+This transformation lasts until you use your Bonus Action to revert to your normal form, until you attempt to copy the abilities of another creature (which replaces any previously copied abilities), or until you are incapacitated or dead.
 
 #### Astral Barrage
 
@@ -79,4 +79,4 @@ Additionally, whenever you copy a creature's abilities (including from memory), 
 
 _14th-level Endless Hunger feature_
 
-Your Copy Abilities transformation now lasts until you use your bonus action to revert to your normal form or until you use your Astral Barrage or Consume features.
+Your Copy Abilities transformation now lasts until you use your Bonus Action to revert to your normal form or until you use your Astral Barrage or Consume features.
