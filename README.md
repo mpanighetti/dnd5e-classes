@@ -10,6 +10,10 @@ If a resource was written for another 5e homebrew document, it will include a li
 
 Classes are listed alphabetically, with subclasses and optional class features grouped with their respective classes.
 
+#### Bard
+
+- [College of Legends](bard/college-of-legends.md)
+
 #### Ranger
 
 - [City Dweller](ranger/city-dweller.md)
