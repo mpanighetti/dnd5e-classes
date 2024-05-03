@@ -17,6 +17,7 @@ Classes are listed alphabetically, with subclasses and optional class features g
 #### Ranger
 
 - [City Dweller](ranger/city-dweller.md)
+- [Wild Composer](ranger/wild-composer.md)
 
 ##### Optional Class Features
 
