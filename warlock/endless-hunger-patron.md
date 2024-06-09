@@ -80,3 +80,7 @@ Additionally, whenever you copy a creature's abilities (including from memory), 
 _14th-level Endless Hunger feature_
 
 Your Copy Abilities transformation now lasts until you use your Bonus Action to revert to your normal form or until you use your Astral Barrage or Consume features.
+
+---
+
+[Based on a concept submitted by thegreateyeofsauron to Probably Bad RPG Ideas](https://probablybadrpgideas.tumblr.com/post/619536955735162880/your-warlocks-patron-is-a-relatively-young-but).
