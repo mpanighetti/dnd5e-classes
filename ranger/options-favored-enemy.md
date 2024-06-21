@@ -1,6 +1,6 @@
 # Favored Enemy Options
 
-_1st-level ranger feature_
+_1st-level Ranger feature_
 
 When you choose a favored enemy, the following enemies are added to your list of options.
 

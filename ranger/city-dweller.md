@@ -84,4 +84,4 @@ While you are in your favored terrain and not incapacitated, you gain the follow
 
 _Source: [Urban Ranger Options](https://github.com/mpanighetti/dnd5e-urban-ranger-options)_
 
-[^📟]: Spells from _[Unearthed Arcana: Modern Magic](https://media.wizards.com/2015/downloads/dnd/UA_ModernMagic.pdf)_ require approval from the Dungeon Master to be made available to you.
+[^📟]: Source: _[Unearthed Arcana: Modern Magic](https://media.wizards.com/2015/downloads/dnd/UA_ModernMagic.pdf)_
