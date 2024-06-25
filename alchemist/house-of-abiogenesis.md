@@ -37,9 +37,9 @@ If the monster is reduced to 0 Hit Points, it reverts to the original inert obje
 
 _7th-level House of Abiogenesis feature_
 
-Your Potion of Life grants increased potency to the life it creates. When you make a Potion of Life at size 2 or higher, you can apply its thrown effect to a Medium-sized object, which creates a Medium-sized alchemist's monster that uses a d8 Hit Dice and has Strength 16 (+3). Additionally, an alchemist's monster you create has Advantage on Strength-based ability checks and Strength Saving Throws; it counts as one size larger when determining its carrying capacity and the weight it can push, drag, or lift; its attacks deal an additional 1d6 damage per size category above Small; and when it is created, it gains Temporary Hit Points equal to five times the potion size.
+Your Potion of Life grants increased potency to the life it creates. When you make a Potion of Life at size 2 or higher, you can apply its thrown effect to a Medium-sized object, which creates a Medium-sized alchemist's monster that uses a d8 Hit Dice and has Strength 17 (+3). Additionally, an alchemist's monster you create has Advantage on Strength-based ability checks and Strength Saving Throws; it counts as one size larger when determining its carrying capacity and the weight it can push, drag, or lift; its attacks deal an additional 1d6 damage per size category above Small; and when it is created, it gains Temporary Hit Points equal to five times the potion size.
 
-When you make a Potion of Life at size 3 or higher, you can apply its thrown effect to a Large-sized object, which creates a Large-sized alchemist's monster that uses a d10 Hit Dice and has Strength 18 (+4).
+When you make a Potion of Life at size 3 or higher, you can apply its thrown effect to a Large-sized object, which creates a Large-sized alchemist's monster that uses a d10 Hit Dice and has Strength 19 (+4).
 
 #### Monstrous Synergy
 
@@ -67,10 +67,11 @@ _Small or Tiny creature (construct, elemental, ooze, or undead), unaligned_
 - **Hit Points:** 10 × PB (the monster has a number of Hit Dice equal to the potion size)
 - **Speed:** 40 ft.
 
-| STR  |  DEX  | CON  | INT  |  WIS  | CHA  |
-|:----:|:-----:|:----:|:----:|:-----:|:----:|
-| 14 (+2) | 14 (+2) | 15 (+2) | 8 (-1) | 14 (+2) | 11 (+0) |
+|  STR  |  DEX  |  CON  | INT  |  WIS  | CHA  |
+|:-----:|:-----:|:-----:|:----:|:-----:|:----:|
+|15 (+2)|11 (+0)|15 (+2)|7 (-2)|14 (+2)|9 (-1)|
 
+- **Saving Throws:** STR, CON
 - **Skills:** Athletics plus two proficiencies you possess of your choice
 - **Resistances:** based on the creature type
 - **Senses:** Darkvision 60 ft., passive Perception 12
