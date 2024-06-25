@@ -1,14 +1,18 @@
 # dnd5e-classes
 
-A collection of 5e homebrew classes, subclasses, and optional class features.
+This is a collection of homebrew classes, subclasses, and optional class features for Dungeons & Dragons 5th Edition.
 
 ## Resources
 
-If a resource was written for another 5e homebrew document, it will include a link to the source at the bottom of its page.
+If a resource was originally written for another homebrew document, it will include a link to the source at the bottom of its page.
 
 ### Classes
 
 Classes are listed alphabetically, with subclasses and optional class features grouped with their respective classes.
+
+#### Alchemist[^🧪]
+
+- [House of Abiogenesis](alchemist/house-of-abiogenesis.md)
 
 #### Bard
 
@@ -58,3 +62,5 @@ _[Unearthed Arcana: Modern Magic](https://media.wizards.com/2015/downloads/dnd/U
 _[Systems Reference Document 5.1](https://dnd.wizards.com/resources/systems-reference-document)_ ("SRD 5.1") © 2016 Wizards of the Coast LLC. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
 
 Endless Hunger Patron is [based on a concept submitted by thegreateyeofsauron to Probably Bad RPG Ideas](https://probablybadrpgideas.tumblr.com/post/619536955735162880/your-warlocks-patron-is-a-relatively-young-but).
+
+[^🧪]: Alchemist class by balab. Used with permission by the author.
