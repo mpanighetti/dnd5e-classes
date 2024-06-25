@@ -14,10 +14,11 @@ _Size 1 transmutation potion_
 
 - **Materials:** powdered zinc oxide
 - **Duration:** 8 hours (drink) or Instantaneous (throw)
+- **Classes:** Alchemist (House of Abiogenesis)
 
 **Drink.** When a creature drinks this potion, their creature type changes to your choice of elemental or ooze for the duration (choose each time you brew the potion), and they gain 5 Temporary Hit Points.
 
-**Throw.** When thrown on a Small or Tiny inert nonmagical object, this potion transforms the object into a living creature known as an **[alchemist's monster](#alchemists-monster)** (see the stat block at the end of this subclass description for full details). The object must be either a clockwork device, a corpse, a sample of an element (air, earth, fire, or water) in a container, slime, or a liquid, or the thrown potion has no effect. The monster is the same size and composition as the object used in its creation, and its Hit Dice is based on its size (d4 for Tiny or d6 for Small). Its creature type, a damage type that it both resists and deals with its attacks, and additional special traits are determined by the nature of the object used in its creation; you can choose one creature type if multiple types are applicable:
+**Throw.** When thrown on a Small or Tiny inert nonmagical object that isn't being worn or carried, this potion transforms the object into a living creature known as an **[alchemist's monster](#alchemists-monster)** (see the stat block at the end of this subclass description for full details). The object must be either a clockwork device, a corpse, a sample of an element (air, earth, fire, or water) in a container, slime, or a liquid, or the thrown potion has no effect. The monster is the same size and composition as the object used in its creation, and its Hit Dice is based on its size (d4 for Tiny or d6 for Small). Its creature type, a damage type that it both resists and deals with its attacks, and additional special traits are determined by the nature of the object used in its creation; you can choose one creature type if multiple types are applicable:
 
 | Object | Creature Type | Damage Type |
 |:-:|:-:|:-:|
