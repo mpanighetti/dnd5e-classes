@@ -1,6 +1,6 @@
 # House of Abiogenesis[^🧪]
 
-On most worlds, the chemical and electrical interactions that resulted in the first spark of life is a secret lost to time, but practitioners of abiogenesis alchemy have learned how to recreate this spark, creating new life from nonliving materials. Alchemists who have perfected this technique can augment their creations with powerful abilities using their potioncraft.
+On most worlds, the chemical and electrical interactions that resulted in the first spark of life is a secret lost to time, but practitioners of abiogenesis alchemy have learned how to reproduce this spark, creating new life from nonliving materials. Alchemists who have perfected this technique can augment their creations with powerful abilities using their potioncraft.
 
 #### Abiogenesis Elixir
 
@@ -51,7 +51,7 @@ You have furthered your studies of creating life from nonlife, revealing methods
 
 _15th-level House of Abiogenesis feature_
 
-The unnatural creature you have created can tap into its inner bodily reserves to produce alchemist's potions. As an Action, you can command your alchemist's monster to produce an alchemist's potion from its body without spending alchemy points and ignoring costly materials. The potion can be any recipe that you are able to brew based on your alchemist level, and when a creature drinks this potion, they additionally regain a number of Hit Points equal to the alchemist's monster's Hit Points when the potion was created.
+The unnatural creature you have created can tap into its inner bodily reserves to produce alchemist's potions as a self-sacrifice. As a Magic Action, you can command your alchemist's monster to produce an alchemist's potion from its body, without spending alchemy points and ignoring costly materials. The potion can be any recipe that you are able to brew based on your alchemist level, and the potion size is the same as the size that was used to create the alchemist's monster. Additionally, when a creature drinks this potion, they regain a number of Hit Points equal to the alchemist's monster's Hit Points when the new potion was created.
 
 After your alchemist's monster creates a potion in this manner, it is immediately reduced to 0 Hit Points, and the object used in its creation is destroyed.
 
