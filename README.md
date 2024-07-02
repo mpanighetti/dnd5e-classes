@@ -10,7 +10,7 @@ If a resource was originally written for another homebrew document, it will incl
 
 Classes are arranged alphabetically, with subclasses and optional class features grouped with their respective classes.
 
-#### Alchemist
+#### Alchemist[^🧪]
 
 - [House of Abiogenesis](alchemist/house-of-abiogenesis.md)
 
@@ -63,4 +63,6 @@ _[Systems Reference Document 5.1](https://dnd.wizards.com/resources/systems-refe
 
 Endless Hunger Patron is [based on a concept by thegreateyeofsauron, submitted to Probably Bad RPG Ideas in 2020](https://probablybadrpgideas.tumblr.com/post/619536955735162880/your-warlocks-patron-is-a-relatively-young-but).
 
-_[Alchemist](https://docs.google.com/document/d/1FbBScXvWzPKRo62ZlqXcIMgUd_KPYoqCkMa2ZtYBN8c)_ © 2023 balab. Used with permission by the author.
+_[Alchemist](https://docs.google.com/document/d/1FbBScXvWzPKRo62ZlqXcIMgUd_KPYoqCkMa2ZtYBN8c)_ © 2023 balab.
+
+[^🧪]: Alchemist class by balab. Used with permission by the author.
