@@ -23,7 +23,7 @@ Classes are arranged alphabetically, with subclasses and optional class features
 - [City Dweller](ranger/city-dweller.md)
 - [Wild Composer](ranger/wild-composer.md)
 
-##### Optional Ranger Class Features
+##### Optional Ranger Features
 
 - [Favored Enemy Options](ranger/options-favored-enemy.md)
 - [Natural Explorer Options](ranger/options-natural-explorer.md)
