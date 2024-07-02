@@ -10,7 +10,7 @@ Your study of chemistry has granted you knowledge of the secret of abiogenesis, 
 
 ##### Potion of Life
 
-_Size 1 transmutation potion_
+_Size 1 transmutation_
 
 - **Materials:** powdered zinc oxide
 - **Duration:** 8 hours (drink) or Instantaneous (throw)
@@ -18,7 +18,7 @@ _Size 1 transmutation potion_
 
 **Drink.** When a creature drinks this potion, their creature type changes to your choice of elemental or ooze for the duration (choose each time you brew the potion), and they gain 5 Temporary Hit Points.
 
-**Throw.** When thrown on a Small or Tiny inert nonmagical object that isn't being worn or carried, this potion transforms the object into a living creature known as an **[alchemist's monster](#alchemists-monster)**. The object must be either a clockwork device, a corpse, a sample of an element (air, earth, fire, or water) in a container, slime, or a liquid, or the thrown potion has no effect. The monster is the same size and composition as the object used in its creation, and its Hit Dice is based on its size (d4 for Tiny or d6 for Small). Its creature type, a damage type that it both resists and deals with its attacks, and additional special traits are determined by the nature of the object used in its creation; you can choose one creature type if multiple types are applicable:
+**Throw.** When thrown on a Small or Tiny inert nonmagical object that isn't being worn or carried, this potion transforms the object into a living creature known as an **[alchemist's monster](#alchemists-monster)**. The object must be either a clockwork device, a corpse, a sample of an element (air, earth, fire, or water) in a container, slime, or a liquid, or the thrown potion has no effect. The monster is the same size and composition as the object used in its creation, and its Hit Dice is based on its size (d4 for Tiny or d6 for Small). Its creature type, a damage type that it both resists and deals with its attacks, and additional special traits are determined by the nature of the object used in its creation; choose one creature type if multiple types are applicable:
 
 | Object | Creature Type | Damage Type |
 |:-:|:-:|:-:|
@@ -37,7 +37,7 @@ If the monster is reduced to 0 Hit Points, it reverts to the original inert obje
 
 _7th-level House of Abiogenesis feature_
 
-Your Potion of Life grants increased potency to the creatures it creates. When you make a Potion of Life at size 2 or bigger, you can apply its thrown effect to a Medium-sized object to create a Medium-sized alchemist's monster with d8 Hit Dice and Strength 17 (+3), and at potion size 3 or bigger, you can apply its thrown effect to a Large-sized object to create a Large-sized monster with d10 Hit Dice and Strength 19 (+4). An alchemist's monster you create above size Small has Advantage on Strength-based ability checks and Strength Saving Throws, counts as one size larger when determining its carrying capacity and the weight it can push, drag, or lift, and deals an additional 1d6 damage per size category above Small on any attack it makes.
+Your Potion of Life grants increased potency to the creatures it creates. When you make a Potion of Life at size 2 or bigger, you can apply its thrown effect to a Medium-sized object to create a Medium-sized alchemist's monster with d8 Hit Dice and Strength 17 (+3), and at potion size 3 or bigger, you can apply its thrown effect to a Large-sized object to create a Large-sized monster with d10 Hit Dice and Strength 19 (+4). A Medium or larger alchemist's monster you create has Advantage on Strength-based ability checks and Strength Saving Throws, counts as one size larger when determining its carrying capacity and the weight it can push, drag, or lift, and deals an additional 1d6 damage per size category above Small on any attack it makes.
 
 Additionally, when you create an alchemist's monster, it gains Temporary Hit Points equal to five times the potion size.
 
@@ -51,7 +51,7 @@ You have furthered your studies of creating life from nonlife, revealing methods
 
 _15th-level House of Abiogenesis feature_
 
-The unnatural creature you have created can tap into its inner bodily reserves to produce alchemist's potions as a self-sacrifice. As a Magic Action, you can command your alchemist's monster to produce an alchemist's potion from its body, without spending alchemy points and ignoring costly materials. The potion can be any recipe that you are able to brew based on your alchemist level, and the potion size is the same as the size that was used to create the alchemist's monster. Additionally, when a creature drinks this potion, they regain a number of Hit Points equal to the alchemist's monster's Hit Points when the new potion was created.
+The unnatural creature you have created can tap into its inner bodily reserves to convert itself into a potion as a self-sacrifice. As a Magic Action, you can command your alchemist's monster to produce an alchemist's potion from its body, without spending alchemy points and with the monster's body satisfying any costly or consumed material component requirements. The potion can be any recipe that you are able to brew based on your alchemist level, and the potion size is the same as the size that was used to create the alchemist's monster. Additionally, when a creature drinks this potion, they regain a number of Hit Points equal to the alchemist's monster's Hit Points when the new potion was created.
 
 After your alchemist's monster creates a potion in this manner, it is immediately reduced to 0 Hit Points, and the object used in its creation is destroyed.
 
