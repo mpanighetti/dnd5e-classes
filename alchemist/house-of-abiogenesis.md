@@ -51,7 +51,7 @@ You have furthered your studies of creating life from nonlife, revealing methods
 
 _15th-level House of Abiogenesis feature_
 
-The unnatural creature you have created can tap into its inner bodily reserves to convert itself into a potion as a self-sacrifice. As a Magic Action, you can command your alchemist's monster to produce an alchemist's potion from its body, without spending alchemy points and with the monster's body satisfying any costly or consumed material component requirements. The potion can be any recipe that you are able to brew based on your alchemist level, and the potion size is the same as the size that was used to create the alchemist's monster. Additionally, when a creature drinks this potion, they regain a number of Hit Points equal to the alchemist's monster's Hit Points when the new potion was created.
+The unnatural creature you have created can tap into its inner bodily reserves to convert itself into a potion as a self-sacrifice. As a Magic action, you can command your alchemist's monster to produce an alchemist's potion from its body, without spending alchemy points and with the monster's body satisfying any costly or consumed material component requirements. The potion can be any recipe that you are able to brew based on your alchemist level, and the potion size is the same as the size that was used to create the alchemist's monster. Additionally, when a creature drinks this potion, they regain a number of Hit Points equal to the alchemist's monster's Hit Points when the new potion was created.
 
 After your alchemist's monster creates a potion in this manner, it is immediately reduced to 0 Hit Points, and the object used in its creation is destroyed.
 
