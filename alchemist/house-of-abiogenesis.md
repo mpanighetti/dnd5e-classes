@@ -27,9 +27,11 @@ _Size 1 transmutation_
 | Sample of an element (air, earth, fire, or water) in a container | Elemental (of the same element as the sample) | Cold (water), Fire (fire), Lightning (air), or Poison (earth) |
 | Slime or liquid | Ooze | Acid |
 
-The alchemist's monster is friendly to you and your companions, and it obeys your commands. In combat, the monster acts during your turn. It can move and use its Reaction on its own, but the only action it takes is the Dodge action, unless you take a Bonus Action on your turn to command it to take a different action. That action can be one in its stat block or some other action. You can also sacrifice one of your attacks when you take the Attack action to command the monster to take the Attack action. If you are Incapacitated, the monster can take any action of its choice, not just Dodge.
+The alchemist's monster is friendly to you and your companions, and it obeys your commands. See its game statistics in the accompanying **[Alchemist's Monster](#alchemists-monster)** stat block.
 
-If the monster is reduced to 0 Hit Points, it reverts to the original inert object used in its creation. If you use a Potion of Life to create a second alchemist's monster, the first one immediately reverts to its inert form.
+In combat, the monster acts during your turn. It can move and use its Reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a Bonus Action on your turn to command it to take a different action. That action can be one in its stat block or some other action. You can also sacrifice one of your attacks when you take the Attack action to command the monster to take the Attack action. If you are Incapacitated, the monster can take any action of its choice, not just Dodge.
+
+If the alchemist's monster is reduced to 0 Hit Points, or if you use a Potion of Life to create a second monster, it immediately reverts to the original inert object used in its creation. Anything the monster was wearing or carrying is left behind when it reverts to its inert form.
 
 **Upsizing.** When you make this potion at a bigger size, the amount of Temporary Hit Points granted to the creature that drinks it is increased to five times the potion size, and an alchemist's monster created by throwing this potion gains increased abilities based on the potion size (as described in its stat block).
 
