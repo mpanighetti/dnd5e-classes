@@ -1,14 +1,18 @@
 # dnd5e-classes
 
-A collection of 5e homebrew classes, subclasses, and optional class features.
+This is a collection of homebrew classes, subclasses, and optional class features for Dungeons & Dragons 5th Edition.
 
 ## Resources
 
-If a resource was written for another 5e homebrew document, it will include a link to the source at the bottom of its page.
+If a resource was originally written for another homebrew document, it will include a link to the source at the bottom of its page.
 
 ### Classes
 
-Classes are listed alphabetically, with subclasses and optional class features grouped with their respective classes.
+Classes are arranged alphabetically, with subclasses and optional class features grouped with their respective classes.
+
+#### Alchemist[^🧪]
+
+- [House of Abiogenesis](alchemist/house-of-abiogenesis.md)
 
 #### Bard
 
@@ -19,7 +23,7 @@ Classes are listed alphabetically, with subclasses and optional class features g
 - [City Dweller](ranger/city-dweller.md)
 - [Wild Composer](ranger/wild-composer.md)
 
-##### Optional Class Features
+##### Optional Ranger Features
 
 - [Favored Enemy Options](ranger/options-favored-enemy.md)
 - [Natural Explorer Options](ranger/options-natural-explorer.md)
@@ -57,4 +61,8 @@ _[Unearthed Arcana: Modern Magic](https://media.wizards.com/2015/downloads/dnd/U
 
 _[Systems Reference Document 5.1](https://dnd.wizards.com/resources/systems-reference-document)_ ("SRD 5.1") © 2016 Wizards of the Coast LLC. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
 
-Endless Hunger Patron is [based on a concept submitted by thegreateyeofsauron to Probably Bad RPG Ideas](https://probablybadrpgideas.tumblr.com/post/619536955735162880/your-warlocks-patron-is-a-relatively-young-but).
+Endless Hunger Patron is [based on a concept by thegreateyeofsauron, submitted to Probably Bad RPG Ideas in 2020](https://probablybadrpgideas.tumblr.com/post/619536955735162880/your-warlocks-patron-is-a-relatively-young-but).
+
+_[Alchemist](https://docs.google.com/document/d/1FbBScXvWzPKRo62ZlqXcIMgUd_KPYoqCkMa2ZtYBN8c)_ © 2023 balab.
+
+[^🧪]: Alchemist class by balab. Used with permission by the author.
