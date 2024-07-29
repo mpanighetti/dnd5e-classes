@@ -77,7 +77,10 @@ _Tiny, Small, Medium, or Large[^👹] creature (Construct, Elemental, Ooze, or U
 
 #### Traits
 
-- _**Alchemical Nature.**_ The alchemist's monster is the same size and composition as the object used in its creation, and the reach of its Alchemical Strike increases by 5 ft. for each size category above Small. Its creature type, an alchemical damage type that it both resists and deals with its attacks, and additional special traits are determined by the nature of the [object](#object-types) used in its creation. If more than one selection would be applicable, you choose which one is used at the time of the monster's creation. Additionally, the monster can only regain Hit Points by drinking an alchemist's potion or by taking a Short or Long Rest. When it drinks an alchemist's potion, in addition to the potion's normal effects, it regains 1d6 Hit Points per size of the potion imbibed.
+- _**Alchemical Nature.**_ The alchemist's monster is the same size and composition as the object used in its creation, and the reach of its Alchemical Strike increases by 5 ft. for each size category above Small. Its creature type, an alchemical damage type that it both resists and deals with its attacks, and additional special traits are determined by the nature of the [object](#object-types) used in its creation. If more than one selection would be applicable, you choose which one is used at the time of the monster's creation.
+
+  Additionally, the monster can only regain Hit Points by drinking an alchemist's potion, by spending Hit Dice, or by finishing a Long Rest. When it drinks an alchemist's potion, in addition to the potion's normal effects, it regains 1d6 Hit Points per size of the potion imbibed.
+
 - _**Amorphous (Air/Fire/Water Elemental and Ooze Only).**_ The alchemist's monster can move through a space as narrow as 1 inch wide without squeezing.
 - _**Siege Monster (Construct and Earth Elemental Only).**_ The alchemist's monster deals double damage to objects and structures.
 - _**Undead Fortitude (Undead Only).**_ If damage reduces the alchemist's monster to 0 Hit Points, it can make a Constitution Saving Throw with a DC of 5 + the damage taken, unless the damage is Radiant or from a critical hit. On a success, the monster drops to 1 Hit Point instead.
