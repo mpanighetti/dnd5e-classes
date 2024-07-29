@@ -28,7 +28,7 @@ The alchemist's monster is friendly to you and your companions, and it obeys you
 
 If an alchemist's monster is reduced to 0 Hit Points, or if you use a Potion of Life to create a second monster, the current monster immediately reverts to the original inert object used in its creation. Anything the monster was wearing or carrying is left behind when it reverts to its inert form.
 
-_Upsizing._ At size 2 or bigger, you can apply the potion's thrown effect to a Medium-sized object to create a Medium-sized alchemist's monster with Strength 17 (+3), and at size 3 or bigger, you can apply its thrown effect to a Large-sized object to create a Large-sized monster with Strength 19 (+4). Additionally, an alchemist's monster created by throwing this potion gains increased abilities based on the potion size (as described in its stat block). 
+_Upsizing._ At size 2 or bigger, you can apply the potion's thrown effect to a Medium-sized object to create a Medium-sized alchemist's monster with Strength 17 (+3), and at size 3 or bigger, you can apply its thrown effect to a Large-sized object to create a Large-sized monster with Strength 19 (+4). Additionally, an alchemist's monster created by throwing this potion gains increased abilities based on the potion size (as described in its stat block).
 
 #### Unnatural Strength
 
@@ -42,7 +42,7 @@ _11th-level House of Abiogenesis feature_
 
 You have furthered your studies of creating life from nonlife, revealing methods of improving potioncraft imbibed by your creations. An alchemist's monster you create can now be under the non-instantaneous effects of two alchemist's potions at the same time.
 
-Additionally, when you create an alchemist's monster, it optionally gains the drink effect of the Potion of Life based on the potion's size. For the duration, tintegrated Potion of Life upsizing with drink and throw sections, integrated alchemist's monster's hit dice size in stat block, increased monster's reach by 5 ft. for each size above small, integrated medium/large monster options into potion text (moved from Unnatural Strength), reworked monster temp HP bonus into gaining drink effect of Potion of Life as Monstrous Synergy feature which also gives it two creature types and your choice of the two damage types per turn, increased monster's CON to 16, added Lob Essence action (ranged attack, self-damage to attempt to hit a target for same), limited Intercept to PB/day and specified willing ally requirementhe Potion of Life's Elemental or Ooze creature type is applied as a second creature type in addition to the monster's normal type, instead of replacing it. The monster gains the traits of both of its creature types, and you can command the monster to shift its alchemical damage type between its two options at the start of each of your turns.
+Additionally, when you create an alchemist's monster, it optionally gains the drink effect of the Potion of Life based on the potion's size. For the duration, the Potion of Life's Elemental or Ooze creature type is applied as a second creature type in addition to the monster's normal type, instead of replacing it. The monster gains the traits of both of its creature types, and you can command the monster to shift its alchemical damage type between its two options at the start of each of your turns.
 
 #### Lifeblood Transfusion
 
