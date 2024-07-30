@@ -15,7 +15,7 @@ _Potion (Alchemist's Potion), Size 1 Transmutation_
 - **Materials:** powdered zinc oxide
 - **Classes:** Alchemist (House of Abiogenesis)
 
-**Drink (8 Hours).** When a creature drinks this potion, their creature type changes to your choice of Elemental or Ooze for the duration (you choose each time you brew the potion), and they gain 5 Temporary Hit Points.
+**Drink (8 Hours).** When you brew this potion, choose the Elemental or Ooze creature type. When a creature drinks this potion, their creature type changes to the type you chose, and they gain 5 Temporary Hit Points.
 
 _Upsizing._ The Temporary Hit Points are increased to five times the potion size.
 
