@@ -8,9 +8,9 @@ _3rd-level House of Abiogenesis feature_
 
 Your study of chemistry has granted you knowledge of the secret of abiogenesis, allowing you to grant life to nonliving substances. You learn the **Potion of Life** recipe.
 
-##### Potion of Life
+##### [Potion of Life](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/potions/potion-of-life.md)
 
-_Size 1 transmutation_
+_Potion (Alchemist's Potion), Size 1 Transmutation_
 
 - **Materials:** powdered zinc oxide
 - **Classes:** Alchemist (House of Abiogenesis)
@@ -102,5 +102,5 @@ _Tiny, Small, Medium, or Large[^👹] creature (Construct, Elemental, Ooze, or U
 | Sample of an element (air, earth, fire, or water) in a container | Elemental (of the same element as the sample) | Cold (water), Fire (fire), Lightning (air), or Poison (earth) |
 | Slime or any liquid | Ooze | Acid |
 
-[^🧪]: The House of Abiogenesis is a subclass of the alchemist class by balab. Used with permission by the author.
+[^🧪]: The House of Abiogenesis is a subclass of the Alchemist class by balab. Used with permission by the author.
 [^👹]: See **Alchemical Nature**.
