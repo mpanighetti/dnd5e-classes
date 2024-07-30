@@ -72,7 +72,7 @@ _Tiny, Small, Medium, or Large[^👹] creature (Construct, Elemental, Ooze, or U
 - **Resistances** alchemical[^👹]
 - **Senses** Darkvision 60 ft., Passive Perception 12
 - **Languages** one language of your choice that you speak
-- **CR** — (PB +1 plus the potion size)
+- **CR** — (PB +1 plus the alchemist's potion size)
 
 #### Traits
 
