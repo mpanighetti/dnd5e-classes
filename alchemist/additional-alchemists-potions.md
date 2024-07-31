@@ -17,8 +17,6 @@ _Potion (Alchemist's Potion), Size 1 Transmutation_
 
 A copied alchemist's potion uses your potioncraft ability as if you were the original brewer, but any brewing choices that were made in the reference potion are carried over to the copied potion.
 
-_Upsizing._ At size 2 or bigger, you can copy an alchemist's potion of the same size, or a normal potion of a rarity matching the table below.
-
 | Size | Potion Rarity |
 |:----:|:-------------:|
 |  1   |     Common    |
@@ -28,5 +26,7 @@ _Upsizing._ At size 2 or bigger, you can copy an alchemist's potion of the same 
 |  5   |   Legendary   |
 
 **Drink or Throw.** The potion has identical effects to the reference potion.
+
+_Upsizing._ At size 2 or bigger, you can copy an alchemist's potion of the same size, or a normal potion of a rarity matching the table below.
 
 [^🧪]: The Alchemist class is a third-party supplement by balab, used with permission by the author.
