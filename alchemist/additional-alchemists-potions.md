@@ -15,7 +15,7 @@ _Potion (Alchemist's Potion), Size 1 Transmutation_
 
 **Brew.** When you brew this potion, you create an exact fresh replica of the potion referenced in its materials. In order to be eligible for copying, the reference potion must either be a common potion or a size 1 alchemist's potion, and you cannot use a component pouch as a substitute for it. You don't need to be able to brew the reference potion based on your alchemist level or any subclass prerequisites in order to copy it.
 
-**Drink or Throw.** The replica potion has identical effects to the reference potion. If the reference potion requires the drinker to make a Saving Throw, the replica potion changes the DC, using your potioncraft ability as if you were the original brewer. Any brewing choices that were made in the reference alchemist's potion are carried over to the copied potion.
+**Drink or Throw.** The replica potion has identical effects to the reference potion. If the reference potion includes an effect which requires a creature to make a Saving Throw, the replica potion changes the DC, using your potioncraft ability as if you were the original brewer. Any brewing choices that were made in the reference alchemist's potion are carried over to the copied potion.
 
 _Upsizing._ At size 2 or bigger, you can copy an alchemist's potion of the same size, or a potion of a rarity matching the table below.
 
