@@ -4,7 +4,15 @@ _1st-level Alchemist[^🧪] feature_
 
 The potions in the following list expand the [alchemist's potions list](https://docs.google.com/document/d/1Y5ia5NRk0sKFpsoFI8unjEsPqT_NHKUVG8paACWJtIM). The list is organized by potion size.
 
-#### Size 1
+##### Alchemist's Potions
+
+| Size |         Name          |
+|:----:|:---------------------:|
+|  1   | Potion of Replication |
+
+#### Potion Descriptions
+
+The potions are presented in alphabetical order.
 
 ##### [Potion of Replication](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/potions/potion-of-replication.md)
 
