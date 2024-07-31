@@ -17,6 +17,7 @@ Classes are arranged alphabetically, with subclasses and optional class features
 ##### Optional Alchemist Features
 
 - [Additional Alchemist's Potions](alchemist/additional-alchemists-potions.md)
+- [Alteration Options](alchemist/options-alterations.md)
 
 #### Bard
 
