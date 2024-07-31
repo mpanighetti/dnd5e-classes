@@ -1,6 +1,6 @@
-# House of Abiogenesis[^🧪]
+# House of Abiogenesis
 
-On most worlds, the chemical and electrical interactions that resulted in the first spark of life is a secret lost to time, but practitioners of abiogenesis alchemy have learned how to reproduce this spark, creating new life from nonliving materials. Alchemists who have perfected this technique can augment their creations with powerful abilities using their potioncraft.
+On most worlds, the chemical and electrical interactions that resulted in the first spark of life is a secret lost to time, but practitioners of abiogenesis alchemy have learned how to reproduce this spark, creating new life from nonliving materials. Alchemists[^🧪] who have perfected this technique can augment their creations with powerful abilities using their potioncraft.
 
 #### Abiogenesis Elixir
 
@@ -102,5 +102,5 @@ _Tiny, Small, Medium, or Large[^👹] creature (Construct, Elemental, Ooze, or U
 | Sample of an element (air, earth, fire, or water) in a container | Elemental (of the same element as the sample) | Cold (water), Fire (fire), Lightning (air), or Poison (earth) |
 | Slime or any liquid | Ooze | Acid |
 
-[^🧪]: The House of Abiogenesis is a subclass of the Alchemist class by balab. Used with permission by the author.
+[^🧪]: The Alchemist class is a third-party supplement by balab, used with permission by the author.
 [^👹]: See **Alchemical Nature**.
