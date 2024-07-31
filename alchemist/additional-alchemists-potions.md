@@ -2,7 +2,7 @@
 
 _1st-level Alchemist[^🧪] feature_
 
-The potions in the following list expand the alchemist's potions list in _[Alchemist](https://docs.google.com/document/d/1FbBScXvWzPKRo62ZlqXcIMgUd_KPYoqCkMa2ZtYBN8c)_. The list is organized by potion size.
+The potions in the following list expand the [alchemist's potions list](https://docs.google.com/document/d/1Y5ia5NRk0sKFpsoFI8unjEsPqT_NHKUVG8paACWJtIM). The list is organized by potion size.
 
 ### Size 1
 
