@@ -10,7 +10,7 @@ If a resource was originally written for another homebrew document, it will incl
 
 Classes are arranged alphabetically, with subclasses and optional class features grouped with their respective classes.
 
-#### Alchemist[^🧪]
+#### Alchemist
 
 - [House of Abiogenesis](alchemist/house-of-abiogenesis.md)
 
@@ -48,6 +48,7 @@ This content was written to be compatible with Dungeons & Dragons 5th Edition. I
 - This document uses new traits called **Condition Resistance** and **Condition Vulnerability**. Resistance to a condition means that a creature has Advantage on Saving Throws made to resist that condition, and vulnerability to a condition means that a creature has Disadvantage on such Saving Throws.
 - Damage and condition resistance, vulnerability, and immunity are now grouped together as **Resistances**, **Vulnerabilities**, and **Immunities** respectively.
 - Resistance, vulnerability, and immunity to Poison apply to both the damage type and the Poisoned condition.
+- The House of Abiogenesis is a subclass for the Alchemist class by balab, used with permission by the author and credited under **Third-Party Content References**.
 
 ## License
 
@@ -64,5 +65,3 @@ _[Systems Reference Document 5.1](https://dnd.wizards.com/resources/systems-refe
 Endless Hunger Patron is [based on a concept by thegreateyeofsauron, submitted to Probably Bad RPG Ideas in 2020](https://probablybadrpgideas.tumblr.com/post/619536955735162880/your-warlocks-patron-is-a-relatively-young-but).
 
 _[Alchemist](https://docs.google.com/document/d/1FbBScXvWzPKRo62ZlqXcIMgUd_KPYoqCkMa2ZtYBN8c)_ © 2023 balab.
-
-[^🧪]: Alchemist class by balab. Used with permission by the author.
