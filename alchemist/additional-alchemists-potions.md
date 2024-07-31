@@ -35,4 +35,4 @@ _Upsizing._ At size 2 or bigger, you can copy bigger alchemist's potions, or pot
 | 4 | Very Rare |
 | 5 | Legendary |
 
-[^🧪]: The Alchemist class is a third-party supplement by balab, used with permission by the author.
+[^🧪]: Alchemist class by balab.
