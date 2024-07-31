@@ -17,7 +17,7 @@ _Potion (Alchemist's Potion), Size 1 Transmutation_
 
 **Drink or Throw.** The replica potion has identical effects to the reference potion. If the reference potion requires the drinker to make a Saving Throw, the replica potion changes the DC, using your potioncraft ability as if you were the original brewer. Any brewing choices that were made in the reference alchemist's potion are carried over to the copied potion.
 
-_Upsizing._ At size 2 or bigger, you can copy an alchemist's potion of the same size, or a normal potion of a rarity matching the table below.
+_Upsizing._ At size 2 or bigger, you can copy an alchemist's potion of the same size, or a potion of a rarity matching the table below.
 
 | Size | Potion Rarity |
 |:----:|:-------------:|
