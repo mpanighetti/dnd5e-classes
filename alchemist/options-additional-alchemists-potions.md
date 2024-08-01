@@ -19,7 +19,7 @@ The potions are presented in alphabetical order.
 _Potion (Alchemist's Potion), Size 1 Transmutation_
 
 - **Materials:** another potion (which isn't consumed), powdered carbon worth potion size × 100gp
-- **Classes:** Alchemist
+- **Prerequisites:** Alchemist
 
 **Brew.** When you brew this potion, you create an exact fresh replica of the potion referenced in its materials. In order to be eligible for copying, the reference potion must either be an alchemist's potion of the same size as the potion you are brewing or a common potion, and you cannot use a component pouch as a substitute for it. You can copy a reference potion even if you aren't normally able to brew that potion.
 
