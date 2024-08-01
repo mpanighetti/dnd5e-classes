@@ -6,9 +6,9 @@ The potions in the following list expand the [alchemist's potions list](https://
 
 ##### Alchemist's Potions
 
-| Size |         Name          |
-|:----:|:---------------------:|
-|  1   | Potion of Replication |
+| Size | Name |
+|:----:|:----:|
+|  1   | [Potion of Replication](#potion-of-replication) |
 
 #### Potion Descriptions
 
