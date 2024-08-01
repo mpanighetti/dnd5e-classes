@@ -13,7 +13,7 @@ Your study of chemistry has granted you knowledge of the secret of abiogenesis, 
 _Potion (Alchemist's Potion), Size 1 Transmutation_
 
 - **Materials:** powdered zinc oxide
-- **Classes:** Alchemist (House of Abiogenesis)
+- **Prerequisites:** Alchemist (House of Abiogenesis)
 
 **Drink (8 Hours).** When you brew this potion, choose the Elemental or Ooze creature type. When a creature drinks this potion, their creature type changes to the type you chose, and they gain 5 Temporary Hit Points.
 
