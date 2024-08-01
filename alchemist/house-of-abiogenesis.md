@@ -15,6 +15,8 @@ _Potion (Alchemist's Potion), Size 1 Transmutation_
 - **Materials:** powdered zinc oxide
 - **Prerequisites:** Alchemist (House of Abiogenesis)
 
+A pale cloud of particles swirls within tiny eddies reverberating through the bottle of clear liquid. The cloud solidifies in your mouth with a slightly chalky texture, and each crunch emits tiny jolts of electricity through your tongue and cheeks. Pairs well with soft cheeses and honeyed desserts.
+
 **Drink (8 Hours).** When you brew this potion, choose the Elemental or Ooze creature type. When a creature drinks this potion, their creature type changes to the type you chose, and they gain 5 Temporary Hit Points.
 
 _Upsizing._ The Temporary Hit Points are increased to five times the potion size.
