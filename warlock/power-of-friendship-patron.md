@@ -6,27 +6,26 @@ Rather than swearing fealty to a single being of power, you have made a joint pa
 
 #### Patron Spells
 
-_1st-level Power of Friendship feature_
+_3rd-level Power of Friendship feature_
 
-The magic of your otherworldly patron grants you the following benefits:
+The magic of your otherworldly patron ensures you always have certain spells ready. You learn the _message_ cantrip if you don't already know it, and when you reach a Warlock level specified in the Power of Friendship Spells table, you thereafter always have the listed spells prepared.
 
-- **Bonus Spells.** You learn the _message_ cantrip if you don't already know it. Additionally, when you gain warlock spell slot levels specified in the Power of Friendship Spells table, you learn the listed spells. Each spell counts as a warlock spell for you, but it doesn't count against the number of warlock spells you know.
-- **Free Castings.** For each group of leveled spells available to you in the Power of Friendship Spells table, you can cast one of the listed spells without expending a spell slot. You regain the ability to cast all spells in this manner when you finish a Long Rest.
-- **Mystic Arcanum Additions.** When you choose a spell to learn using Mystic Arcanum, the following spells are added to the list of options, as long as you meet the warlock level requirements for the given spell level: _gate_, _heroes' feast_, _mind blank_, and _teleport_.
+Additionally, for each group of leveled spells listed in the table, you can cast one of them without expending a Spell Slot. You regain the ability to cast all spells in this manner when you finish a Long Rest.
+
+Finally, when you choose a spell to learn using Mystic Arcanum, the following spells are added to the list of options, as long as you meet the warlock level requirements for the given spell level: _gate_, _heroes' feast_, _mind blank_, and _teleport_.
 
 ##### Power of Friendship Spells
 
-| Warlock Spell Slot Level | Spells |
+| Warlock Level | Spells |
 |:-:|:-|
-| 1st | _ceremony, heroism, shield_ |
-| 2nd | _enhance ability, locate object, warding bond_ |
-| 3rd | _haste, sending_ |
-| 4th | _locate creature, private sanctum_ |
-| 5th | _telepathic bond, teleportation circle_ |
+| 3 | _ceremony, enhance ability, heroism, warding bond_ |
+| 5 | _haste, sending_ |
+| 7 | _locate creature, private sanctum_ |
+| 9 | _telepathic bond, teleportation circle_ |
 
 #### Friendship Bond
 
-_1st-level Power of Friendship feature_
+_3rd-level Power of Friendship feature_
 
 You can invite willing creatures to join your pact of friendship. To do so, you can perform a special ritual for a one-hour period targeting yourself plus up to two willing creatures who remain within 10 feet of you during the entire ritual. At the end of the ritual, the targets become bonded through your warlock magic in a friendship bond rite.
 
