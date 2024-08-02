@@ -1,6 +1,6 @@
 # Natural Explorer Options
 
-_1st-level Ranger feature_
+_Ranger feature_
 
 When you choose a favored terrain, the following terrains are added to your list of options.
 

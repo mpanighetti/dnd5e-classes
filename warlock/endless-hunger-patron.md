@@ -8,7 +8,7 @@ The Endless Hunger's motivations are inscrutably simple, at times seeming to be 
 
 #### Patron Spells
 
-_1st-level Endless Hunger feature_
+_Endless Hunger feature_
 
 The magic of your otherworldly patron grants you the following benefits:
 
@@ -28,13 +28,13 @@ The magic of your otherworldly patron grants you the following benefits:
 
 #### Curbed Appetite
 
-_1st-level Endless Hunger feature_
+_Endless Hunger feature_
 
 Your patron's endless pursuit of sweet desserts can be channeled as magical energy. Constitution is now your warlock spellcasting ability.
 
 #### Copy Abilities
 
-_1st-level Endless Hunger feature_
+_Endless Hunger feature_
 
 Your patron gifts you the power to physically resemble another creature and take on their attributes. You can use your Bonus Action to touch a creature and attempt to copy their abilities. The creature makes a Constitution Saving Throw against your warlock Spell Save DC; the creature can choose to fail this Saving Throw, and they fail this save automatically if they are incapacitated or dead. On a failed Saving Throw, your creature type, walking and climbing speeds, resistances, and vulnerabilities are replaced with those of the creature, and your skin takes on the color and appearance of the creature's skin. You are immediately aware of all your new abilities, and you are considered to be a shapechanger while in this form. On a successful save, the creature is immune to your Copy Abilities feature for 24 hours, unless they choose to fail a future Saving Throw.
 

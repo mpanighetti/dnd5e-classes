@@ -10,7 +10,7 @@ These "backers" are largely devoted followers from other worlds and planes of ex
 
 #### Patron Spells
 
-_1st-level Crowdsourced Patron feature_
+_Crowdsourced Patron feature_
 
 
 The magic of your network of patrons grants you the following benefits:
@@ -31,7 +31,7 @@ The magic of your network of patrons grants you the following benefits:
 
 #### Social Networker
 
-_1st-level Crowdsourced Patron feature_
+_Crowdsourced Patron feature_
 
 Your distributed network of patrons imparts their collective support to you, which fills you with confidence in your public appearances and social interactions. Choose between Persuasion or Performance. You gain Proficiency and Expertise in the chosen skill. At 6th level, you gain Proficiency and Expertise in the other skill.
 
@@ -41,7 +41,7 @@ At 6th level, messages using this feature have no distance limit, and at 10th le
 
 #### Generous Backers
 
-_1st-level Crowdsourced Patron feature_
+_Crowdsourced Patron feature_
 
 
 You establish a system wherein your patrons can select a desired level of devotion and support. This support manifests seemingly at random, as different backers start, end, or modify their patronage.

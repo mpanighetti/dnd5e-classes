@@ -4,7 +4,7 @@ On most worlds, the chemical and electrical interactions that resulted in the fi
 
 #### Abiogenesis Elixir
 
-_3rd-level House of Abiogenesis feature_
+_House of Abiogenesis feature_
 
 Your study of chemistry has granted you knowledge of the secret of abiogenesis, allowing you to grant life to nonliving substances. You learn the **Potion of Life** recipe.
 

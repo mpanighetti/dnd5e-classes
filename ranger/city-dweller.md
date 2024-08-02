@@ -8,7 +8,7 @@ You have developed an innate talent to navigate the civilized world as easily as
 
 #### City Dweller Spells
 
-_3rd-level City Dweller feature_
+_City Dweller feature_
 
 When you reach certain levels in this class, you pick an additional spell of 1st level or higher to learn from the City Dweller Spells table. Each spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.
 
@@ -26,7 +26,7 @@ When you gain a level in this class, you can choose one of the ranger spells you
 
 #### City Dweller Cantrips
 
-_3rd-level City Dweller feature_
+_City Dweller feature_
 
 You learn the _friends_ and _message_ cantrips. These cantrips gain bolstered effects in certain social interactions:
 
@@ -45,7 +45,7 @@ You can cast a cantrip using these bolstered spell effects a number of times equ
 
 #### People Person
 
-_3rd-level City Dweller feature_
+_City Dweller feature_
 
 Your time spent living amongst the people of the civilized world has made you exceptionally talented at working with them — and against them. You gain Proficiency in one of the following skills of your choice: Deception, Intimidation, or Persuasion. Additionally, whenever you make a Charisma check while interacting socially with a favored enemy, your Proficiency Bonus is doubled.
 

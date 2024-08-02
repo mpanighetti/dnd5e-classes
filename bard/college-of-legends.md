@@ -4,13 +4,13 @@ Though all bards have the ability to learn rhythmancy spells, practitioners of t
 
 #### Legendary Recall
 
-_3rd-level College of Legends feature_
+_College of Legends feature_
 
 You have extensively pored through history books and sought out hidden knowledge of ancient heroes. You gain Proficiency in two skills of your choice from the following list: Arcana, History, Nature, or Religion. Additionally, when you make an Intelligence check, you can expend one use of Bardic Inspiration to temporarily gain Expertise for the check, even if you do not normally have Proficiency or Expertise in the related skill.
 
 #### Rhythmantic Savant
 
-_3rd-level College of Legends feature_
+_College of Legends feature_
 
 You have an innate understanding of the magic of music and how to wield it, granting you the following benefits.
 

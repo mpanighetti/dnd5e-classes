@@ -6,7 +6,7 @@ Rather than swearing fealty to a single being of power, you have made a joint pa
 
 #### Patron Spells
 
-_3rd-level Power of Friendship feature_
+_Power of Friendship feature_
 
 The magic of your otherworldly patron ensures you always have certain spells ready. You learn the _message_ cantrip if you don't already know it, and when you reach a Warlock level specified in the Power of Friendship Spells table, you thereafter always have the listed spells prepared.
 
@@ -25,7 +25,7 @@ Finally, when you choose a spell to learn using Mystic Arcanum, the following sp
 
 #### Friendship Bond
 
-_3rd-level Power of Friendship feature_
+_Power of Friendship feature_
 
 You can invite willing creatures to join your pact of friendship. To do so, you can perform a special ritual for a one-hour period targeting yourself plus up to two willing creatures who remain within 10 feet of you during the entire ritual. At the end of the ritual, the targets become bonded through your warlock magic in a friendship bond rite.
 
