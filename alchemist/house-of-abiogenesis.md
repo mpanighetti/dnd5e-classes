@@ -1,6 +1,6 @@
-# House of Abiogenesis[^🧪]
+# House of Abiogenesis
 
-On most worlds, the chemical and electrical interactions that resulted in the first spark of life is a secret lost to time, but practitioners of abiogenesis alchemy have learned how to reproduce this spark, creating new life from nonliving materials. Alchemists who have perfected this technique can augment their creations with powerful abilities using their potioncraft.
+On most worlds, the chemical and electrical interactions that resulted in the first spark of life is a secret lost to time, but practitioners of abiogenesis alchemy have learned how to reproduce this spark, creating new life from nonliving materials. Alchemists[^🧪] who have perfected this technique can augment their creations with powerful abilities using their potioncraft.
 
 #### Abiogenesis Elixir
 
@@ -13,7 +13,9 @@ Your study of chemistry has granted you knowledge of the secret of abiogenesis, 
 _Potion (Alchemist's Potion), Size 1 Transmutation_
 
 - **Materials:** powdered zinc oxide
-- **Classes:** Alchemist (House of Abiogenesis)
+- **Prerequisites:** Alchemist (House of Abiogenesis)
+
+A pale cloud of particles swirls within tiny eddies reverberating through the bottle of clear liquid. The cloud solidifies in your mouth with a slightly chalky texture, and each crunch emits tiny jolts of electricity through your tongue and cheeks. Pairs well with soft cheeses and honeyed desserts.
 
 **Drink (8 Hours).** When you brew this potion, choose the Elemental or Ooze creature type. When a creature drinks this potion, their creature type changes to the type you chose, and they gain 5 Temporary Hit Points.
 
@@ -102,5 +104,5 @@ _Tiny, Small, Medium, or Large[^👹] creature (Construct, Elemental, Ooze, or U
 | Sample of an element (air, earth, fire, or water) in a container | Elemental (of the same element as the sample) | Cold (water), Fire (fire), Lightning (air), or Poison (earth) |
 | Slime or any liquid | Ooze | Acid |
 
-[^🧪]: The House of Abiogenesis is a subclass of the Alchemist class by balab. Used with permission by the author.
+[^🧪]: Alchemist class by balab.
 [^👹]: See **Alchemical Nature**.
