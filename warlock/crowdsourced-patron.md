@@ -12,7 +12,6 @@ These "backers" are largely devoted followers from other worlds and planes of ex
 
 _Crowdsourced Patron feature_
 
-
 The magic of your network of patrons grants you the following benefits:
 
 - **Bonus Spells.** You always have certain spells ready; when you gain Warlock spell slot levels specified in the **Crowdsourced Spells** table, you thereafter always have the listed spells prepared.
@@ -42,7 +41,6 @@ At 6th level, messages using this feature have no distance limit, and at 10th le
 #### Generous Backers
 
 _Crowdsourced Patron feature_
-
 
 You establish a system wherein your patrons can select a desired level of devotion and support. This support manifests seemingly at random, as different backers start, end, or modify their patronage.
 
