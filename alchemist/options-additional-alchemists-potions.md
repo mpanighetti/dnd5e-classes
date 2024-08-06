@@ -1,6 +1,6 @@
 # Additional Alchemist's Potions
 
-_1st-level Alchemist[^🧪] feature_
+_Alchemist[^🧪] feature_
 
 The potions in the following list expand the [alchemist's potions list](https://docs.google.com/document/d/1Y5ia5NRk0sKFpsoFI8unjEsPqT_NHKUVG8paACWJtIM). The list is organized by potion size.
 
