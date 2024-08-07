@@ -10,10 +10,10 @@ Your study of chemistry has granted you knowledge of the secret of abiogenesis, 
 
 ##### [Potion of Life](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/potions/potion-of-life.md)
 
-_Potion (Alchemist's Potion), Size 1 Transmutation_
+_Potion (Alchemist's Potion), Size 1 Transmutation_ (Alchemist (House of Abiogenesis))
 
 - **Materials:** powdered zinc oxide
-- **Prerequisites:** Alchemist (House of Abiogenesis)
+- **Duration:** varies
 
 A pale cloud of particles swirls within tiny eddies reverberating through the bottle of clear liquid. The cloud solidifies in your mouth with a slightly chalky texture, and each crunch emits tiny jolts of electricity through your tongue and cheeks. Pairs well with soft cheeses and honeyed desserts.
 

@@ -16,10 +16,10 @@ The potions are presented in alphabetical order.
 
 ##### [Potion of Replication](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/potions/potion-of-replication.md)
 
-_Potion (Alchemist's Potion), Size 1 Transmutation_
+_Potion (Alchemist's Potion), Size 1 Transmutation_ (Alchemist)
 
 - **Materials:** another potion (which isn't consumed), powdered carbon worth potion size × 100gp
-- **Prerequisites:** Alchemist
+- **Duration:** varies
 
 A solution of carbon toner is suspended within diluted agar. After adding a droplet of sample potion into the mixture, a quick electrical jolt activates the toner, causing the sample to bloom and propagate through the bottle. In moments, a reasonable facsimile of the original beverage is produced. Though sommeliers sometimes scoff at the carbon's slight bitter aftertaste, most agree that prior food pairings are still suitable.
 
