@@ -10,9 +10,7 @@ _Power of Friendship feature_
 
 The magic of your otherworldly patron ensures you always have certain spells ready. You learn the _message_ cantrip if you don't already know it, and when you reach a Warlock level specified in the Power of Friendship Spells table, you thereafter always have the listed spells prepared.
 
-Additionally, for each group of leveled spells listed in the table, you can cast one of them without expending a Spell Slot. You regain the ability to cast all spells in this manner when you finish a Long Rest.
-
-Finally, when you choose a spell to learn using Mystic Arcanum, the following spells are added to the list of options, as long as you meet the warlock level requirements for the given spell level: _gate_, _heroes' feast_, _mind blank_, and _teleport_.
+Additionally, when you choose a spell to learn using Mystic Arcanum, the following spells are added to the list of options, as long as you meet the warlock level requirements for the given spell level: _gate_, _heroes' feast_, _mind blank_, and _teleport_.
 
 ##### Power of Friendship Spells
 
