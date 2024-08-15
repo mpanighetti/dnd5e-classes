@@ -10,21 +10,19 @@ The Endless Hunger's motivations are inscrutably simple, at times seeming to be 
 
 _Endless Hunger feature_
 
-The magic of your otherworldly patron grants you the following benefits:
+The magic of your otherworldly patron ensures you always have certain spells ready. When you reach a Warlock level specified in the Endless Hunger Spells table, you thereafter always have the listed spells prepared.
 
-- **Bonus Spells.** When you gain Warlock spell slots specified in the Endless Hunger Spells table, you thereafter always have the listed spells known and prepared. They count as Warlock spells for you, but they don't count against the number of spells you know or can prepare.
-- **Free Casting.** You can cast one of your leveled spells from the Endless Hunger Spells table without expending a spell slot. You must finish a Long Rest before you use this benefit again, unless you cast a spell of a different level.
-- **Mystic Arcanum Additions.** When you choose a spell to learn using Mystic Arcanum, the following spells are added to the list of options, as long as you meet the Warlock level requirements for the given spell level: _arcane sword, blade barrier, chain lightning, heroes' feast, meteor swarm, mind blank, prismatic spray, shapechange,_ and _teleport_.
+Additionally, when you choose a spell to learn using Mystic Arcanum, the following spells are added to the list of options, as long as you meet the Warlock level requirements for the given spell level: _arcane sword, blade barrier, chain lightning, heroes' feast, meteor swarm, mind blank, prismatic spray, shapechange,_ and _teleport_.
 
 ##### Endless Hunger Spells
 
-| Spell Level | Spells |
+| Warlock Level | Spells |
 |:-:|:-|
-| 1st | _disguise self, feather fall, jump, longstrider_ |
-| 2nd | _alter self, barkskin, calm emotions, gust of wind_ |
-| 3rd | _blink, create food and water, fireball, stinking cloud_ |
-| 4th | _dominate beast, locate creature, polymorph, stoneskin_ |
-| 5th | _cloudkill, dominate person, geas, mislead_ |
+| 1 | _disguise self, feather fall, jump, longstrider_ |
+| 3 | _alter self, barkskin, calm emotions, gust of wind_ |
+| 5 | _blink, create food and water, fireball, stinking cloud_ |
+| 7 | _dominate beast, locate creature, polymorph, stoneskin_ |
+| 9 | _cloudkill, dominate person, geas, mislead_ |
 
 #### Curbed Appetite
 
