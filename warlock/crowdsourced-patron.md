@@ -12,21 +12,17 @@ These "backers" are largely devoted followers from other worlds and planes of ex
 
 _Crowdsourced Patron feature_
 
-The magic of your network of patrons grants you the following benefits:
-
-- **Bonus Spells.** You always have certain spells ready; when you gain Warlock spell slot levels specified in the **Crowdsourced Spells** table, you thereafter always have the listed spells prepared.
-- **Free Castings.** For each group of leveled spells available to you in the Crowdsourced Spells table, you can cast one prepared spell without expending a spell slot. You regain the ability to cast all spells in this manner when you finish a Long Rest.
+The magic of your network of patrons ensures you always have certain spells ready. You learn the _message_ cantrip if you don't already know it, and when you reach a Warlock level specified in the Crowdsourced Spells table, you thereafter always have the listed spells prepared.
 
 ##### Crowdsourced Spells
 
-| Warlock Spell Slot Level | Spells |
-|:-----------:|:-------|
-| cantrip     | _message_ |
-| 1st         | _command, shield, silent image, sleep_ |
-| 2nd         | _alter self, calm emotions, skywrite_ |
-| 3rd         | _clairvoyance, sending, spirit guardians_ |
-| 4th         | _compulsion, dominate beast, fabricate, polymorph_ |
-| 5th         | _commune, creation, geas, legend lore, telepathic bond, seeming_ |
+| Warlock Level | Spells |
+|:-:|:-|
+| 1 | _command, sleep_ |
+| 3 | _alter self, calm emotions_ |
+| 5 | _clairvoyance, sending_ |
+| 7 | _compulsion, fabricate_ |
+| 9 | _geas, telepathic bond_ |
 
 #### Social Networker
 
