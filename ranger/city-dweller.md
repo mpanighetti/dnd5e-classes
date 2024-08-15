@@ -1,6 +1,6 @@
 # City Dweller
 
-At 3rd level, a ranger gains the choice of a subclass. The following option is made available to you when making that choice: the City Dweller.
+At 3rd level, a Ranger gains the choice of a subclass. The following option is made available to you when making that choice: the City Dweller.
 
 ## City Dweller Features
 
@@ -10,7 +10,7 @@ You have developed an innate talent to navigate the civilized world as easily as
 
 _City Dweller feature_
 
-When you reach certain levels in this class, you pick an additional spell of 1st level or higher to learn from the City Dweller Spells table. Each spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.
+When you reach certain levels in this class, you pick an additional spell of 1st level or higher to learn from the City Dweller Spells table. Each spell counts as a Ranger spell for you, but it doesn't count against the number of Ranger spells you know.
 
 ##### City Dweller Spells
 
@@ -22,7 +22,7 @@ When you reach certain levels in this class, you pick an additional spell of 1st
 | 13th | _confusion, fabricate, protection from ballistics[^📟], synchronicity_[^📟] |
 | 17th | _commune with city[^📟], legend lore, modify memory, shutdown_[^📟] |
 
-When you gain a level in this class, you can choose one of the ranger spells you know and replace it with a spell from the City Dweller Spells table, which must be of a level for which you have spell slots.
+When you gain a level in this class, you can choose one of the Ranger spells you know and replace it with a spell from the City Dweller Spells table, which must be of a level for which you have spell slots.
 
 #### City Dweller Cantrips
 
@@ -49,7 +49,7 @@ _City Dweller feature_
 
 Your time spent living amongst the people of the civilized world has made you exceptionally talented at working with them — and against them. You gain Proficiency in one of the following skills of your choice: Deception, Intimidation, or Persuasion. Additionally, whenever you make a Charisma check while interacting socially with a favored enemy, your Proficiency Bonus is doubled.
 
-You are also adept at anticipating the next moves of the city folk you know so well. You gain one city or one humanoid species of your choice as a favored enemy using the ranger's Favored Enemy feature and learn an associated language. Whenever you select additional favored enemies at later levels, you select an additional city or humanoid species and learn an additional associated language.
+You are also adept at anticipating the next moves of the city folk you know so well. You gain one city or one humanoid species of your choice as a favored enemy using the Ranger's Favored Enemy feature and learn an associated language. Whenever you select additional favored enemies at later levels, you select an additional city or humanoid species and learn an additional associated language.
 
 #### Verticality
 

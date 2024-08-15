@@ -34,7 +34,7 @@ _Crowdsourced Patron feature_
 
 Your distributed network of patrons imparts their collective support to you, which fills you with confidence in your public appearances and social interactions. Choose between Persuasion or Performance. You gain Proficiency and Expertise in the chosen skill. At 6th level, you gain Proficiency and Expertise in the other skill.
 
-Furthermore, you learn how to tap into your distributed patron network to relay your statements over great distances by word of mouth. Any warlock spell or warlock feature you use to communicate telepathically or remotely with another creature doubles its range limit and does not require being able to see the target or know where they are. Messages sent and received in this manner manifest as a collection of the many voices of your backers and are not recognizable as coming from you or the sender.
+Furthermore, you learn how to tap into your distributed patron network to relay your statements over great distances by word of mouth. Any Warlock spell or Warlock feature you use to communicate telepathically or remotely with another creature doubles its range limit and does not require being able to see the target or know where they are. Messages sent and received in this manner manifest as a collection of the many voices of your backers and are not recognizable as coming from you or the sender.
 
 At 6th level, messages using this feature have no distance limit, and at 10th level, those messages additionally can be sent to other planes of existence.
 
@@ -87,7 +87,7 @@ _10th-level Crowdsourced Patron feature_
 
 Beginning at 10th level, you can request direct assistance from your patrons in order to support a particular project.
 
-Asking for aid from your patrons requires you to use your action. Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than your warlock level, your patrons intervene. If your request would be aided by financial support, your patrons send you an amount of gold pieces equal to 100 × the percentile number you rolled. Otherwise, the DM chooses the nature of the intervention; the effect of any warlock spell would be appropriate.
+Asking for aid from your patrons requires you to use your action. Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than your Warlock level, your patrons intervene. If your request would be aided by financial support, your patrons send you an amount of gold pieces equal to 100 × the percentile number you rolled. Otherwise, the DM chooses the nature of the intervention; the effect of any Warlock spell would be appropriate.
 
 If your patrons aid you in this manner, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a Long Rest.
 
@@ -97,4 +97,4 @@ At 20th level, your call for backer support succeeds automatically, though you m
 
 _14th-level Crowdsourced Patron feature_
 
-Word of your exploits has spread beyond your sphere of influence to grant you an extremely minor celebrity status that you can occasionally exploit. As an action, you can attempt to sway a creature who can hear you and understand at least one language into supporting your cause. The creature must succeed on a Charisma Saving Throw against your warlock Spell Save DC or they are Charmed by you. While Charmed in this manner, the creature becomes friendly toward you and your allies and attempts to protect you from harm, though not to the extent that they would harm their own allies or endanger themself. The Charmed condition ends if you or your allies harm the target, but otherwise lasts until you use this feature on a new target. Once a creature has been targeted by this feature, they cannot be targeted again by it for the next week.
+Word of your exploits has spread beyond your sphere of influence to grant you an extremely minor celebrity status that you can occasionally exploit. As an action, you can attempt to sway a creature who can hear you and understand at least one language into supporting your cause. The creature must succeed on a Charisma Saving Throw against your Warlock Spell Save DC or they are Charmed by you. While Charmed in this manner, the creature becomes friendly toward you and your allies and attempts to protect you from harm, though not to the extent that they would harm their own allies or endanger themself. The Charmed condition ends if you or your allies harm the target, but otherwise lasts until you use this feature on a new target. Once a creature has been targeted by this feature, they cannot be targeted again by it for the next week.
