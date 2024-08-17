@@ -8,36 +8,36 @@ If a resource was originally written for another homebrew document, it will incl
 
 ### Classes
 
-Classes are arranged alphabetically, with subclasses and optional class features grouped with their respective classes.
+Classes are separated based on whether they are sourced from the _SRD_ or a third-party resource. Within these groups, classes are arranged alphabetically, with subclasses and optional class features grouped with their respective classes.
 
-#### Alchemist
+#### Systems Reference Document Classes
 
-- [House of Abiogenesis](alchemist/house-of-abiogenesis.md)
-
-##### Optional Alchemist Features
-
-- [Additional Alchemist's Potions](alchemist/options-additional-alchemists-potions.md)
-- [Alteration Options](alchemist/options-alterations.md)
-
-#### Bard
+##### Bard
 
 - [College of Legends](bard/college-of-legends.md)
 
-#### Ranger
+##### Ranger
 
 - [City Dweller](ranger/city-dweller.md)
 - [Wild Composer](ranger/wild-composer.md)
+- Optional Ranger Features
+  - [Favored Enemy Options](ranger/options-favored-enemy.md)
+  - [Natural Explorer Options](ranger/options-natural-explorer.md)
 
-##### Optional Ranger Features
-
-- [Favored Enemy Options](ranger/options-favored-enemy.md)
-- [Natural Explorer Options](ranger/options-natural-explorer.md)
-
-#### Warlock
+##### Warlock
 
 - [Crowdsourced Patron](warlock/crowdsourced-patron.md)
 - [Endless Hunger Patron](warlock/endless-hunger-patron.md)
 - [Power of Friendship Patron](warlock/power-of-friendship-patron.md)
+
+#### Third-Party Classes
+
+##### Alchemist
+
+- [House of Abiogenesis](alchemist/house-of-abiogenesis.md)
+- Optional Alchemist Features
+  - [Additional Alchemist's Potions](alchemist/options-additional-alchemists-potions.md)
+  - [Alteration Options](alchemist/options-alterations.md)
 
 ## Credits
 
