@@ -12,17 +12,17 @@ _Endless Hunger feature_
 
 The magic of your otherworldly patron ensures you always have certain spells ready. When you reach a Warlock level specified in the Endless Hunger Spells table, you thereafter always have the listed spells prepared.
 
-Additionally, when you choose a spell to learn using Mystic Arcanum, the following spells are added to the list of options, as long as you meet the Warlock level requirements for the given spell level: _arcane sword, blade barrier, chain lightning, heroes' feast, meteor swarm, mind blank, prismatic spray, shapechange,_ and _teleport_.
+Additionally, when you choose a spell to learn using Mystic Arcanum, the following spells are added to the list of options, as long as you meet the Warlock level requirements for the given spell level: _heroes' feast, mind blank, prismatic spray_, and _shapechange_.
 
 ##### Endless Hunger Spells
 
 | Warlock Level | Spells |
 |:-:|:-|
-| 1 | _disguise self, feather fall, jump, longstrider_ |
-| 3 | _alter self, barkskin, calm emotions, gust of wind_ |
-| 5 | _blink, create food and water, fireball, stinking cloud_ |
-| 7 | _dominate beast, locate creature, polymorph, stoneskin_ |
-| 9 | _cloudkill, dominate person, geas, mislead_ |
+| 1 | _feather fall, jump_ |
+| 3 | _alter self, gust of wind_ |
+| 5 | _create food and water, stinking cloud_ |
+| 7 | _dominate beast, stoneskin_ |
+| 9 | _cloudkill, geas_ |
 
 #### Curbed Appetite
 
