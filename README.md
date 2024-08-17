@@ -14,30 +14,30 @@ Classes are separated based on whether they are sourced from the _SRD_ or a thir
 
 ##### Bard
 
-- [College of Legends](bard/college-of-legends.md)
+- [College of Legends](srd/bard/college-of-legends.md)
 
 ##### Ranger
 
-- [City Dweller](ranger/city-dweller.md)
-- [Wild Composer](ranger/wild-composer.md)
+- [City Dweller](srd/ranger/city-dweller.md)
+- [Wild Composer](srd/ranger/wild-composer.md)
 - Optional Ranger Features
-  - [Favored Enemy Options](ranger/options-favored-enemy.md)
-  - [Natural Explorer Options](ranger/options-natural-explorer.md)
+  - [Favored Enemy Options](srd/ranger/options-favored-enemy.md)
+  - [Natural Explorer Options](srd/ranger/options-natural-explorer.md)
 
 ##### Warlock
 
-- [Crowdsourced Patron](warlock/crowdsourced-patron.md)
-- [Endless Hunger Patron](warlock/endless-hunger-patron.md)
-- [Power of Friendship Patron](warlock/power-of-friendship-patron.md)
+- [Crowdsourced Patron](srd/warlock/crowdsourced-patron.md)
+- [Endless Hunger Patron](srd/warlock/endless-hunger-patron.md)
+- [Power of Friendship Patron](srd/warlock/power-of-friendship-patron.md)
 
 #### Third-Party Classes
 
 ##### Alchemist
 
-- [House of Abiogenesis](alchemist/house-of-abiogenesis.md)
+- [House of Abiogenesis](third-party/alchemist/house-of-abiogenesis.md)
 - Optional Alchemist Features
-  - [Additional Alchemist's Potions](alchemist/options-additional-alchemists-potions.md)
-  - [Alteration Options](alchemist/options-alterations.md)
+  - [Additional Alchemist's Potions](third-party/alchemist/options-additional-alchemists-potions.md)
+  - [Alteration Options](third-party/alchemist/options-alterations.md)
 
 ## Credits
 
