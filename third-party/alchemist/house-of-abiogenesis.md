@@ -34,4 +34,4 @@ Once you give this command, you regain the ability to do so after you finish a L
 
 ---
 
-_Source: [Alchemy Lab](https://github.com/mpanighetti/dnd5e-alchemy-lab)_
+_Source: [Kohl's Laboratory](https://github.com/mpanighetti/dnd5e-kohls-laboratory)_

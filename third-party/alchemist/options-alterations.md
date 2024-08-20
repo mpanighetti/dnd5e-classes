@@ -13,4 +13,4 @@ When spending alchemy points to refresh an alchemist's potion that has lost pote
 
 ---
 
-_Source: [Alchemy Lab](https://github.com/mpanighetti/dnd5e-alchemy-lab)_
+_Source: [Kohl's Laboratory](https://github.com/mpanighetti/dnd5e-kohls-laboratory)_

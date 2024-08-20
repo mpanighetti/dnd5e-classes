@@ -16,4 +16,4 @@ Potion effects applied to gem auras follow all normal rules for potion brewing, 
 
 ---
 
-_Source: [Alchemy Lab](https://github.com/mpanighetti/dnd5e-alchemy-lab)_
+_Source: [Kohl's Laboratory](https://github.com/mpanighetti/dnd5e-kohls-laboratory)_
