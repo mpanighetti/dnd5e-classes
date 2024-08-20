@@ -38,6 +38,7 @@ Classes are separated based on whether they are sourced from the _SRD_ or a thir
 - Optional Alchemist Features
   - [Additional Alchemist's Potions](third-party/alchemist/options-additional-alchemists-potions.md)
   - [Alteration Options](third-party/alchemist/options-alterations.md)
+  - [Aura Options](third-party/alchemist/options-auras.md)
 
 ## Credits
 
