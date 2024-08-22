@@ -6,8 +6,6 @@ Rather than swearing fealty to a single being of power, you have made a joint pa
 
 #### Patron Spells
 
-_Power of Friendship feature_
-
 The magic of your otherworldly patron ensures you always have certain spells ready. You learn the _message_ cantrip if you don't already know it, and when you reach a Warlock level specified in the Power of Friendship Spells table, you thereafter always have the listed spells prepared.
 
 Additionally, when you choose a spell to learn using Mystic Arcanum, the following spells are added to the list of options, as long as you meet the Warlock level requirements for the given spell level: _gate_, _heroes' feast_, _mind blank_, and _teleport_.
@@ -24,8 +22,6 @@ Additionally, when you choose a spell to learn using Mystic Arcanum, the followi
 
 #### Friendship Bond
 
-_Power of Friendship feature_
-
 You can invite willing creatures to join your pact of friendship. To do so, you can perform a special ritual for a one-hour period targeting yourself plus up to two willing creatures who remain within 10 feet of you during the entire ritual. At the end of the ritual, the targets become bonded through your Warlock magic in a Friendship Bond rite.
 
 Creatures bonded to each other in this manner gain a +1 to all Saving Throws they make while they can see you. You also gain the ability to tap into the power of your bonded patrons. While you are within 30 feet of a bonded creature, you can expend a Pact Magic spell slot to either cast a spell the bonded creature knows or has prepared, or to borrow a single ability they possess.
@@ -40,25 +36,19 @@ The act of performing the Friendship Bond rite again ends any existing bonds pre
 
 You gain the ability to target and bond with more creatures through the Friendship Bond rite (in addition to yourself) when you reach higher Warlock levels: three creatures at 6th level, four creatures at 10th level, and five creatures at 14th level.
 
-#### Vitality Pool
-
-_6th-level Power of Friendship feature_
+#### Level 6: Vitality Pool
 
 Members of your Friendship Bond rite gain the ability to share the load of their friends' suffering in times of need. If a bonded creature sees another bonded creature take damage within 30 feet, as a Reaction, they can reduce the damage the target takes by half. They then take the same amount of damage the target took, which can't be reduced in any way. Furthermore, if they currently have Resistance to a damage type, for the next minute, the target gains Resistance to that damage type, and the bonded creature loses this Resistance. If the bonded creature has more than one damage type Resistance, they choose which one to transfer.
 
 Once a bonded creature uses this Reaction, they can't do so again until they finish a Long Rest.
 
-#### Patron Tether
-
-_10th-level Power of Friendship feature_
+#### Level 10: Patron Tether
 
 Your bond with your friends is strengthened, allowing for easier magical communication or transportation even when separated by great distances. A bonded creature can cast a Warlock spell you know to either send a telepathic message to another bonded creature (such as _sending_ or _telepathic bond_) or to teleport with a bonded creature or to a destination within 10 feet of one (such as _misty step_ or _teleportation circle_) without expending a spell slot or material components. Bonded creatures use your spellcasting ability modifier and Spell Save DC when casting a spell in this manner.
 
 This feature can be used between all bonded creatures a combined number of times equal to your Charisma modifier (minimum once), and all uses are regained after you finish a Long Rest.
 
-#### Don't You Die on Me
-
-_14th-level Power of Friendship feature_
+#### Level 14: Don't You Die on Me
 
 The tether you share with your friends allows you to pull each other back from the brink of death. As a Magic action, a bonded creature can touch the corpse of another bonded creature who died within the past 24 hours. The dead creature returns to life with 1 Hit Point, and any levels of Exhaustion they had are removed and transferred to the creature who used this Action, who subsequently gains an additional level of Exhaustion.
 

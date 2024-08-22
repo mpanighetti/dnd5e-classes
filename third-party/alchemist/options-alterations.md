@@ -1,6 +1,6 @@
-# Alteration Options
+# Level 2: Alteration Options
 
-_2nd-level Alchemist feature_
+_Alchemist feature_
 
 When you choose alchemist's potion alteration options, you have access to the following additional options.
 

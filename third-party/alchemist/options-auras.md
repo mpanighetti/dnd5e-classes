@@ -1,4 +1,4 @@
-### Aura Options
+### Level 3: Aura Options
 
 _House of Adornments feature_
 

@@ -10,8 +10,6 @@ These "backers" are largely devoted followers from other worlds and planes of ex
 
 #### Patron Spells
 
-_Crowdsourced Patron feature_
-
 The magic of your network of patrons ensures you always have certain spells ready. You learn the _message_ cantrip if you don't already know it, and when you reach a Warlock level specified in the Crowdsourced Spells table, you thereafter always have the listed spells prepared.
 
 ##### Crowdsourced Spells
@@ -26,8 +24,6 @@ The magic of your network of patrons ensures you always have certain spells read
 
 #### Social Networker
 
-_Crowdsourced Patron feature_
-
 Your distributed network of patrons imparts their collective support to you, which fills you with confidence in your public appearances and social interactions. Choose between Persuasion or Performance. You gain Proficiency and Expertise in the chosen skill. At 6th level, you gain Proficiency and Expertise in the other skill.
 
 Furthermore, you learn how to tap into your distributed patron network to relay your statements over great distances by word of mouth. Any Warlock spell or Warlock feature you use to communicate telepathically or remotely with another creature doubles its range limit and does not require being able to see the target or know where they are. Messages sent and received in this manner manifest as a collection of the many voices of your backers and are not recognizable as coming from you or the sender.
@@ -35,8 +31,6 @@ Furthermore, you learn how to tap into your distributed patron network to relay 
 At 6th level, messages using this feature have no distance limit, and at 10th level, those messages additionally can be sent to other planes of existence.
 
 #### Generous Backers
-
-_Crowdsourced Patron feature_
 
 You establish a system wherein your patrons can select a desired level of devotion and support. This support manifests seemingly at random, as different backers start, end, or modify their patronage.
 
@@ -55,9 +49,7 @@ Your backer die changes when you reach certain levels in this class. The die bec
 | 8-9 | **Devotee** | As a Bonus Action, roll the backer die and regain that number of Hit Points. If you are not missing any Hit Points, these are instead gained as Temporary Hit Points. |
 | 10  | **Break the Bank** | As an action, roll the backer die. 10 times that number of gold pieces magically appear in your possession. |
 
-#### Exclusive Podcast
-
-_6th-level Crowdsourced Patron feature_
+#### Level 6: Exclusive Podcast
 
 The combined magical fervor of your backers has granted you the ability to capture your musings in a portable vessel for their later enjoyment. For a one-hour period of a Long Rest (or the entirety of a Short Rest), you can channel your magic and cast a message into a seedpod you have in your possession to create a podcast. The podcast includes your voice and any other audible sounds that occurred nearby during the capture period. The contents of the message are entirely up to you; some creators recall their adventures from the previous day, others might conduct interviews with their party members, and still others weave fantastic fictional narratives to enthrall their audiences. Once you finish your podcast, the contents of your message are then infused within each seed in the pod. You cannot create a podcast more than once per day, as excessive content creation yields diminishing listener returns.
 
@@ -77,9 +69,7 @@ Starting when you reach 10th level in this class, listeners also gain Temporary 
 
 These effects last until the listener's next Long Rest. A creature can only benefit from each podcast message once, after which they must listen to a new podcast to benefit from this feature again.
 
-#### Pledge Drive
-
-_10th-level Crowdsourced Patron feature_
+#### Level 10: Pledge Drive
 
 Beginning at 10th level, you can request direct assistance from your patrons in order to support a particular project.
 
@@ -89,8 +79,6 @@ If your patrons aid you in this manner, you can't use this feature again for 7 d
 
 At 20th level, your call for backer support succeeds automatically, though you must still roll percentile dice to determine the potential level of financial support, if any.
 
-#### Patron-Famous
-
-_14th-level Crowdsourced Patron feature_
+#### Level 14: Patron-Famous
 
 Word of your exploits has spread beyond your sphere of influence to grant you an extremely minor celebrity status that you can occasionally exploit. As an action, you can attempt to sway a creature who can hear you and understand at least one language into supporting your cause. The creature must succeed on a Charisma Saving Throw against your Warlock Spell Save DC or they are Charmed by you. While Charmed in this manner, the creature becomes friendly toward you and your allies and attempts to protect you from harm, though not to the extent that they would harm their own allies or endanger themself. The Charmed condition ends if you or your allies harm the target, but otherwise lasts until you use this feature on a new target. Once a creature has been targeted by this feature, they cannot be targeted again by it for the next week.
