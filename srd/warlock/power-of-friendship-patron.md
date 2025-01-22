@@ -44,7 +44,7 @@ Once a bonded creature uses this Reaction, they can't do so again until they fin
 
 #### Level 10: Patron Tether
 
-Your bond with your friends is strengthened, allowing for easier magical communication or transportation even when separated by great distances. A bonded creature can cast a Warlock spell you know to either send a telepathic message to another bonded creature (such as _sending_ or _telepathic bond_) or to teleport with a bonded creature or to a destination within 10 feet of one (such as _misty step_ or _teleportation circle_) without expending a spell slot or material components. Bonded creatures use your spellcasting ability modifier and Spell Save DC when casting a spell in this manner.
+Your bond with your friends is strengthened, allowing for easier magical communication or transportation even when separated by great distances. A bonded creature can cast a Warlock spell you know of 5th level or lower to either send a telepathic message to another bonded creature (such as _sending_ or _telepathic bond_) or to teleport with a bonded creature or to a destination within 10 feet of one (such as _misty step_ or _teleportation circle_) without expending a spell slot or material components. Bonded creatures use your spellcasting ability modifier and Spell Save DC when casting a spell in this manner.
 
 This feature can be used between all bonded creatures a combined number of times equal to your Charisma modifier (minimum once), and all uses are regained after you finish a Long Rest.
 
